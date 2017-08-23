@@ -29,6 +29,11 @@
 
 #menu-title {
 	margin-top: 0;
+	font-weight: bold;
+}
+
+.option-title {
+	font-weight: bold;
 }
 
 .jumbotron.menu-option {
